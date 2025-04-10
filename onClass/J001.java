@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class FirstProgram
 {
 	public static void main(String [] args)
@@ -11,3 +11,4 @@ public class FirstProgram
 		System.out.println(n1 + n2);
 	}
 }
+*/
