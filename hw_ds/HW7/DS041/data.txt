@@ -1,0 +1,14 @@
+push 10
+push 20
+clear
+push 30
+push 40
+push 50
+pop
+top
+push 60
+push 70
+print
+clear
+print
+q
